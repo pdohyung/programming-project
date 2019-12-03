@@ -1,1 +1,1 @@
-# programming-project
+숭실대학교 전자정보공학부 IT융합전공 김도형 입니다.
